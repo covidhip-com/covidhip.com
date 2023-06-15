@@ -2,7 +2,7 @@
 
 ---
 # About This Page
-This page will outline some of them and provide resources.
+This page will outline information about the impact of covid infections and provide resources.
 
 # About Covid
 Covid is a disease which has multiple impacts across the body. 
