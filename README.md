@@ -1,5 +1,7 @@
 # covidhip.com
 
+* TOC
+{:toc}
 
 # About Covid
 Covid is a disease which has multiple impacts across the body. 
