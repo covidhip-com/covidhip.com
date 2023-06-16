@@ -1,5 +1,12 @@
 # covidhip.com
 
+# About this site
+{:.no_toc}
+This site is about covid.
+
+# Table of Contents
+- TOC
+{:toc}
 
 # About Covid
 Covid is a disease which has multiple impacts across the body. 
