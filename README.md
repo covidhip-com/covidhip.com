@@ -1,4 +1,5 @@
 # covidhip.com
+{:.no_toc}
 
 # About this site
 {:.no_toc}
