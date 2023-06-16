@@ -1,5 +1,10 @@
 # covidhip.com
 
+# About this site
+{:.no_toc}
+This site is about covid.
+
+# Table of Contents
 - TOC
 {:toc}
 
