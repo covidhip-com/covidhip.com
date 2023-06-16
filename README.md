@@ -1,6 +1,6 @@
 # covidhip.com
 
-* TOC
+- TOC
 {:toc}
 
 # About Covid
