@@ -74,10 +74,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9867601/
 > In summary, this retrospective cohort study demonstrated that COVID-19 patients would carry a significantly higher risk of MRSA infections, including MRSA bacteremia, than patients with influenza.
 
-
 https://www.medrxiv.org/content/10.1101/2023.05.12.23289898v1
-> Among 228,940 children aged 0**–**5 years, the risk for first-time medically attended RSV during 10/2022**–**12/2022 was 6.40% for children with prior COVID-19 infection, higher than 4.30% for the matched children without COVID-19 (risk ratio or RR: 1.40, 95% CI: 1.27**–**1.55); and among 99,105 children aged 0**–**1 year, the overall risk was 7.90% for those with prior COVID-19 infection, higher than 5.64% for matched children without (RR: 1.40, 95% CI: 1.21**–**1.62). These data provide evidence that COVID-19 contributed to the 2022 surge of severe pediatric RSV cases.
-
+> Among 228,940 children aged 0-5 years, the risk for first-time medically attended RSV during 10/2022-12/2022 was 6.40% for children with prior COVID-19 infection, higher than 4.30% for the matched children without COVID-19 (risk ratio or RR: 1.40, 95% CI: 1.27-1.55); and among 99,105 children aged 0-1 year, the overall risk was 7.90% for those with prior COVID-19 infection, higher than 5.64% for matched children without (RR: 1.40, 95% CI: 1.21-1.62). These data provide evidence that COVID-19 contributed to the 2022 surge of severe pediatric RSV cases.
 
 
 ## Possible persistence 
@@ -90,26 +88,36 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/
 https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00142-X/fulltext
 > They found SARS-CoV-2 RNA widely distributed in 84 distinct anatomical locations up to 230 days after infection
 
+
 ## Cardiovascular Impacts
 
 ### Large summary
 https://www.frontiersin.org/articles/10.3389/fmicb.2023.1213111/full
 > ...leading to cardiomyocyte fibrosis, endothelial damage, mediating inflammatory responses and vasoconstriction, and accelerating cardiovascular diseases such as hypertension and heart failure’s further progression
+
 > ...COVID-19 was found to trigger increased expression of NETs through multiple mechanisms, and NETs play an important role in the transition from acute to chronic persistent neocoronavirus infection
+
 > ...In addition to this, epigenetic reprogramming of hematopoietic progenitor cells and cellular dysregulation may be involved in the clinical manifestations of the long COVID cardiovascular system, but the above mechanisms are only highly speculative, and the exact pathological process needs to be further clarified
 > ...The invasion of SARS-CoV-2 into humans is found to increase the host cell’s stress response and induce cellular senescence, which increases the pro-inflammatory, tissue-damaging senescence-associated secretory phenotype (SASP)
+
 > ...patients who died from neointimal pneumonia suggested the presence of endothelial inflammation and degradation of endothelial cells in multiple organs throughout the body, and the presence of viral structures in endothelial cells was observed by electron microscopy
+
 > ...This study demonstrated that SARS-CoV-2 can cause impaired endothelial structure and function and reduce vascular barrier function, providing strong theoretical support for the mechanism of virus-endothelial cell interaction
+
 > ...several studies have demonstrated that COVID-19 can induce the development of insulin resistance, which increases the incidence of cardiovascular disease and more severe infectious complications.
+
 > ...Baier et al. demonstrated for the first time that SARS-CoV-2 infection can cause an imbalance in iron homeostasis and intracellular iron accumulation, leading to decreased iron storage capacity, which induces ROS production to cause increased oxidative stress and cellular damage in cardiomyocytes. The interaction between SARS-CoV-2 and iron metabolism disorders was also demonstrated by Han et al. SARS-CoV-2 induces ferroptosis in human sinoatrial node pacemaker cells, causing severe lipid peroxidation, which results in pacing dysfunction and bradycardia
+
 > In addition to ACE2-mediated viral entry, endothelial dysfunction, iron homeostasis imbalance, and psychosocial factors involved in pathological development, severe electrolyte disturbances, respiratory failure, and impaired mitochondria can also lead to cardiac involvement
 
-
 ### Anemia 
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9263052/
 > Hemolytic anemia has been linked to COVID-19 through induction of autoimmune hemolytic anemia (AIHA) caused by the formation of autoantibodies (auto-Abs) or directly through CD147 or erythrocyte Band3 protein-mediated erythrocyte injury.
 
+
 ## Other organs
+
 ### Liver 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/
 > SARS-CoV-2 is notorious for causing acute liver injury through various mechanisms. While most of the time it causes a self-resolving acute liver injury, it can exacerbate chronic liver conditions with an associated increase in morbidity and mortality.
@@ -120,13 +128,16 @@ https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm
 > Diabetes risk was 166% higher in the COVID-19 group than in the non-COVID-19 group (HR = 2.66, 95% CI = 1.98–3.56)
 
 ### Gut changes
+
 https://www.nature.com/articles/s41467-023-36223-7
 > We show that beyond the first 30 days of infection, people with COVID-19 exhibited increased risks and 1-year burdens of incident gastrointestinal disorders spanning several disease categories including motility disorders, acid related disorders (dyspepsia, gastroesophageal reflux disease, peptic ulcer disease), functional intestinal disorders, acute pancreatitis, hepatic and biliary disease.
 
 https://pubmed.ncbi.nlm.nih.gov/36591612/
 >Compared with controls, patients with COVID-19 reported higher rates of irritable bowel syndrome (IBS) according to Rome IV criteria: 0.5% versus 3.2%, p=0.045. Factors significantly associated with IBS diagnosis included history of allergies, chronic intake of proton pump inhibitors and presence of dyspnoea. At the 6-month follow-up, the rate of patients with COVID-19 fulfilling the criteria for depression was higher than among controls.
 
-## Brain changes:
+
+## Brain changes
+
 https://www.pnas.org/doi/10.1073/pnas.2217232120
 > Collectively, our findings suggest that subtle changes in white matter extracellular water content last beyond the acute infection with SARS-CoV-2. 
 
@@ -140,7 +151,8 @@ https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9
 > Taken together, the findings presented here illustrate that even mild respiratory infection with SARS-CoV-2 can result in persistent neuroinflammatory changes and consequent dysregulation of neural cell types important for healthy cognitive function"
 
 
-## Cognitive decline:
+## Cognitive decline
+
 https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-023-00357-x
 >Importantly, the COVID-19 patients over 50 years (61.9 ± 7.4 years, _n_ = 100), but not those younger than 50 years (34.2 ± 9.5 years, _n_ = 115), showed significantly lower total scores of MoCA and MMSE than controls (62.0 ± 7.3 years, _n_ = 100; 34.3 ± 8.8 years, _n_ = 115) (both _P_ < 0.05, Fig. [1](https://translationalneurodegeneration.biomedcentral.com/articles/10.1186/s40035-023-00357-x#Fig1)b).
 
@@ -153,7 +165,8 @@ https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2805366?resultClick=
 https://journals.lww.com/nrronline/fulltext/2023/07000/alzheimer_s_disease_risk_after_covid_19__a_view.2.aspx
 > Reported results regarding the cognitive decline in a significant portion of COVID-19 patients, Aβ and tau pathways altered by SARS-CoV-2, neurotoxic glial profile in response to the virus, and brain changes in discrete regions related to learning/memory, made us aware of a possible etiological link between this viral infection and AD. Although undesirable, the COVID pandemic will indeed allow scientists to explore the infectious hypothesis prospectively in a wide population.
 
-## Possible links to cancer / tumours / melanoma
+
+## Links to cancer / tumours / melanoma / leukemia
 
 https://www.frontiersin.org/articles/10.3389/fmed.2022.845558/full
 > We report three cases of malignant melanoma (MM) associated with severe COVID-19, the first two with amelanotic melanoma and the third with hypopigmented melanoma.
