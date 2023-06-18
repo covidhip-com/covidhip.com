@@ -219,6 +219,8 @@ https://www.sciencedirect.com/science/article/pii/S2531137922000050#sec0003
 
 # Links to Other Resources
 
+- [John Snow Project](https://johnsnowproject.org)
+
 - [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
 
 - [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit)
