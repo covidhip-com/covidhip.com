@@ -111,6 +111,13 @@ https://www.frontiersin.org/articles/10.3389/fmicb.2023.1213111/full
 
 > In addition to ACE2-mediated viral entry, endothelial dysfunction, iron homeostasis imbalance, and psychosocial factors involved in pathological development, severe electrolyte disturbances, respiratory failure, and impaired mitochondria can also lead to cardiac involvement
 
+
+### Hypertension
+
+https://www.sciencedirect.com/science/article/pii/S0019483223001037?via%3Dihub
+> We found that 32.3% of the population had new onset of hypertension at 1 year follow-up post-COVID-19 disease recovery
+
+
 ### Anemia 
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9263052/
@@ -127,6 +134,20 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/
 
 https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm
 > Diabetes risk was 166% higher in the COVID-19 group than in the non-COVID-19 group (HR = 2.66, 95% CI = 1.98–3.56)
+
+### Lungs
+
+
+https://pubs.rsna.org/doi/10.1148/radiol.221250
+> showed persistent pulmonary dysfunction in children and adolescents who recovered from COVID-19 and those with long COVID.
+
+### Thyroid
+
+https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829
+> Thyroid dysfunction was registered in 61.1% of the patients (78.3% subclinical hypothyroidism, 13% subclinical hyperthyroidism and 8.7% overt hypothyroidism) two months after COVID-19.
+> ... At the follow-up, the subclinical hypothyroidism persisted in 28.3% of the subjects. Moreover, the TSH level was significantly reduced in comparison to the second month after the initial COVID-19 infection in all the patients (_p_ < 0.001), but not in those with subclinical hypothyroidism and without hormone replacement therapy. Our findings indicate that COVID-19 could have long-term, negative effects on thyroid function.
+
+
 
 ### Gut changes
 
@@ -166,6 +187,10 @@ https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2805366?resultClick=
 https://journals.lww.com/nrronline/fulltext/2023/07000/alzheimer_s_disease_risk_after_covid_19__a_view.2.aspx
 > Reported results regarding the cognitive decline in a significant portion of COVID-19 patients, Aβ and tau pathways altered by SARS-CoV-2, neurotoxic glial profile in response to the virus, and brain changes in discrete regions related to learning/memory, made us aware of a possible etiological link between this viral infection and AD. Although undesirable, the COVID pandemic will indeed allow scientists to explore the infectious hypothesis prospectively in a wide population.
 
+https://www.eurekalert.org/news-releases/985010
+> "All subtypes of dementia, irrespective of patients’ previous dementia types, behaved like rapidly progressive dementia following COVID-19, according to the Journal of Alzheimer’s Disease Reports"
+
+
 
 ## Links to cancer / tumours / melanoma / leukemia
 
@@ -186,3 +211,29 @@ https://pubmed.ncbi.nlm.nih.gov/37260157/
 
 https://www.sciencedirect.com/science/article/pii/S2531137922000050#sec0003
 > Considering the relatively rapid development of [cytopenias](https://www.sciencedirect.com/topics/medicine-and-dentistry/cytopenia "Learn more about cytopenias from ScienceDirect's AI-generated Topic Pages") following recovery from COVID-19, it cannot be ruled out that SARS-Cov-2 played a role in leukemogenesis in those patients
+
+# Links to Articles
+
+- [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
+- [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
+
+# Links to Other Resources
+
+- [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
+
+- [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit)
+
+Contains lots of information, not just applicable for Long-COVID. Sections include 
+"COVID-19 is not over", "The Impacts of Long-COVID on the Brain & Body" (11 sections), "Children & Long-COVID", "Long-COVID & Pregnancy", "Impact on the Economy & Healthcare System", "Prevalence & Length of Long-COVID", "Mild COVID & Long-COVID", "Masks Are Effective", "High-Quality (KN95, N95) Masks are Essential", "Prevention Strategies".
+
+- [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555)
+
+A categorised set of bookmarks about covid and its impacts. 
+
+- [Covid Is Airborne](https://www.covidisairborne.org)
+
+Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more.
+
+- [The People's CDC](https://peoplescdc.org)
+> The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19.
+
