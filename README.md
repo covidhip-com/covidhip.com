@@ -211,3 +211,29 @@ https://pubmed.ncbi.nlm.nih.gov/37260157/
 
 https://www.sciencedirect.com/science/article/pii/S2531137922000050#sec0003
 > Considering the relatively rapid development of [cytopenias](https://www.sciencedirect.com/topics/medicine-and-dentistry/cytopenia "Learn more about cytopenias from ScienceDirect's AI-generated Topic Pages") following recovery from COVID-19, it cannot be ruled out that SARS-Cov-2 played a role in leukemogenesis in those patients
+
+# Links to Articles
+
+- [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
+- [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
+
+# Links to Other Resources
+
+- [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
+
+- [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit)
+
+Contains lots of information, not just applicable for Long-COVID. Sections include 
+"COVID-19 is not over", "The Impacts of Long-COVID on the Brain & Body" (11 sections), "Children & Long-COVID", "Long-COVID & Pregnancy", "Impact on the Economy & Healthcare System", "Prevalence & Length of Long-COVID", "Mild COVID & Long-COVID", "Masks Are Effective", "High-Quality (KN95, N95) Masks are Essential", "Prevention Strategies".
+
+- [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555)
+
+A categorised set of bookmarks about covid and its impacts. 
+
+- [Covid Is Airborne](https://www.covidisairborne.org)
+
+Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more.
+
+- [The People's CDC](https://peoplescdc.org)
+> The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19.
+
