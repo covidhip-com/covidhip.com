@@ -1,6 +1,6 @@
 # covidhip.com
 {:.no_toc}
-
+ 
 # About this site
 {:.no_toc}
 This site is about covid.
