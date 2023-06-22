@@ -3,14 +3,38 @@
  
 # About this site
 {:.no_toc}
-This site is about covid.
+This site is about covid, what the risks of catching it really are, and how you can reduce your risks.
 
 # Table of Contents
 - TOC
 {:toc}
 
 # About Covid
-Covid is a disease which has multiple impacts across the body. 
+Covid is not just a cold. 
+
+It creates long term damage, and may be persistent in the body creating more long term effects. We don't understand how common this damage or long term impact is.
+
+Every infection with covid puts you at higher risk.
+
+We already know that:
+
+- common damage 1 [link to study](http://example.com)
+
+As for long term effects:
+
+- long term effect 1 [link to study](http://example.com)
+
+# Reducing your risk
+
+Reduce the number of infections you have.
+
+You can use active or passive protections.
+
+- masks
+- filtration
+- outside air
+- limit your exposure
+
 
 ## Acute effects (the first two weeks)
 - damage to cardiovascular organs
