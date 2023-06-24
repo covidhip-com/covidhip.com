@@ -1,9 +1,13 @@
 # covidhip.com
-{:.no_toc}
+get hip to covid reality
  
 # About this site
-{:.no_toc}
-This site is about covid, what the risks of catching it really are, and how you can reduce your risks.
+This site is about covid, and contains:
+- the risks of covid
+- ways to protect yourself
+- links to other, longer resources
+
+It's on a short, easy to remember URL, so you can tell people about it easily.
 
 # About Covid
 Covid is not just a cold. 
@@ -62,14 +66,13 @@ You can use active or passive protections.
 - [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
 - [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
 
-# Links to Other Resources
+# Other Resources
 
 - [John Snow Project](https://johnsnowproject.org)
 
 - [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit)
 
-Contains lots of information, not just applicable for Long-COVID. Sections include 
-"COVID-19 is not over", "The Impacts of Long-COVID on the Brain & Body" (11 sections), "Children & Long-COVID", "Long-COVID & Pregnancy", "Impact on the Economy & Healthcare System", "Prevalence & Length of Long-COVID", "Mild COVID & Long-COVID", "Masks Are Effective", "High-Quality (KN95, N95) Masks are Essential", "Prevention Strategies".
+Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. 
 
 - [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555)
 
