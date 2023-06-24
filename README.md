@@ -18,10 +18,12 @@ Every infection with covid puts you at higher risk.
 
 We already know that even one Covid infection:
 
-- [creates long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
+- [Can create long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
 
-- [create "persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
+- [Can create "persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
+ 
 - [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/)
+  
 - [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9)
 
 - [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829)
@@ -40,13 +42,19 @@ We already know that even one Covid infection:
 
 - [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/)
 
-- Influences and possible accelerates [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/) and [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
+- Influences and possibly accelerates [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/) and [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
 
 - [Can be detected in some people months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
 
 These may be true even for "mild" cases, and it appears the risk does not reduce for re-infections. 
 
 Every infection increases your risk.
+
+# Common responses
+
+- "I got over it" / "It was mild" / "I'm fine now".
+
+Which tests have you had done to prove you're not affected? You probably do have damage from covid, you're just not testing for it. Even if you have been lucky on your previous infections, will you be so lucky every time? 
 
 # Reducing your risk
 
