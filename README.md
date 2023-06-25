@@ -1,5 +1,5 @@
 # covidhip.com
-get hip to covid reality
+<sub>get hip to covid reality</sub>
  
 # About this site
 This site is about covid, and contains:
