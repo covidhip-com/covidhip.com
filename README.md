@@ -7,7 +7,7 @@ This site is about covid, and contains:
 It's on a short, easy to remember URL, so you can tell people about it easily.
 
 # About Covid
-Covid is not just a cold. 
+Covid is not just a cold.
 
 It creates long term damage, and may be persistent in the body doing more damage. We don't understand how common this damage and long term impact is.
 
@@ -18,9 +18,9 @@ We already know that even one Covid infection:
 - [Can create long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
 
 - [Can create "persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
- 
+
 - [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/)
-  
+
 - [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9)
 
 - [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829)
@@ -43,7 +43,7 @@ We already know that even one Covid infection:
 
 - [Can be detected in some people months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
 
-These may be true even for "mild" cases, and it appears the risk does not reduce for re-infections. 
+These may be true even for "mild" cases, and it appears the risk does not reduce for re-infections.
 
 Every infection increases your risk.
 
@@ -51,18 +51,26 @@ Every infection increases your risk.
 
 - "I got over it" / "It was mild" / "I'm fine now".
 
-Which tests have you had done to prove you're not affected? You probably do have damage from covid, you're just not testing for it. Even if you have been lucky on your previous infections, will you be so lucky every time? 
+Which tests have you had done to prove you're not affected? You probably do have damage from covid, you're just not testing for it. Even if you have been lucky on your previous infections, will you be so lucky every time?
+
+- "My new health problems aren't related to covid"
+
+It can be months before the problems from a covid infection appear. If you've had covid, you are more likely to have progression of existing provlems, and develop new problems.
+
+- "I want to go back to life as normal"
+
+Life before 2020 is not coming back. We can make a new, safe normal, or you can hurt yourself or people you love. There are no other options.
 
 # Reducing your risk
 
-Reduce the number of infections you have.
+Reduce the number of infections you have. You can use active or passive protections.
 
-You can use active or passive protections.
-
-- masks
-- filtration
-- outside air
-- limit your exposure
+| protection | detail |
+|----|----|
+| masks / respirators | N95 or P2 standard or higher. |
+| air filtration | Some kinds of filters can remove the virus from the air. |
+| outside air | Bringing air from outside into your shared spaces can dilute the amount of virus you are exposed to, if someone else is carrying it. |
+| limit your exposure | Reduce your risk by reducing the time you spend in enclosed spaces with potentially contagious people. |
 
 
 
@@ -71,24 +79,15 @@ You can use active or passive protections.
 - [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
 - [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
 
+
 # Other Resources
 
-- [John Snow Project](https://johnsnowproject.org)
-
-- [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit)
-
-Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. 
-
-- [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555)
-
-A categorised set of bookmarks about covid and its impacts. 
-
-- [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
-
-- [Covid Is Airborne](https://www.covidisairborne.org)
-
-Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more.
-
-- [The People's CDC](https://peoplescdc.org)
-> The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19.
-
+| Link | Description |
+|----|------|
+|  [John Snow Project](https://johnsnowproject.org) | The John Snow Project |
+| [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit) | Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. |
+| [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555) | A categorised set of bookmarks about covid and its impacts. |
+| [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home) | A thorough telling of why one family is still cautious about covid |
+| [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
+| [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
+| [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
