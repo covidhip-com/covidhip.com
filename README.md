@@ -1,6 +1,3 @@
-# covidhip.com
-get hip to covid reality
- 
 # About this site
 This site is about covid, and contains:
 - the risks of covid
