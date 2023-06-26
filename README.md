@@ -91,3 +91,4 @@ Reduce the number of infections you have. You can use active or passive protecti
 | [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
 | [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
+| [Scientific publications on long covid / PASC](https://docs.google.com/spreadsheets/d/1jy354stmCE30zYoE5Ou3lz0O1hZSbvuLfvxcUGoBroQ/edit#gid=2120469993) | An exhaustive and constantly updated collection of studies and data about Long Covid |
