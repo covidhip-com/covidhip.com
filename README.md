@@ -61,6 +61,10 @@ It can be months before the problems from a covid infection appear. If you've ha
 
 Life before 2020 is not coming back. We can make a new, safe normal, or you can hurt yourself or people you love. There are no other options.
 
+- "If it was that bad, someone would have told me".
+
+The [CDC](https://twitter.com/CDCgov/status/1529147728068063232?s=20) says 1 in 5 people will develop "a new condition a month or more after surviving #COVID19". The [NIH](https://covid19.nih.gov/covid-19-topics/long-covid) says "Either mild or severe COVID-19 can lead to long-lasting symptoms".
+
 # Reducing your risk
 
 Reduce the number of infections you have. You can use active or passive protections.
@@ -84,7 +88,7 @@ Reduce the number of infections you have. You can use active or passive protecti
 
 | Link | Description |
 |----|------|
-|  [John Snow Project](https://johnsnowproject.org) | The John Snow Project |
+|  [John Snow Project](https://johnsnowproject.org) | The objective of the John Snow Project is to provide easily digestible information for the general public and policymakers to help them understand the risks posed by the disease and how to best manage those risks. |
 | [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit) | Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. |
 | [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555) | A categorised set of bookmarks about covid and its impacts. |
 | [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home) | A thorough telling of why one family is still cautious about covid |
