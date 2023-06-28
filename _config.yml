@@ -2,7 +2,7 @@ title: Covid Hip - Covid info, risks, and resources
 description: Covid info hub, highlighting risks and ways to reduce your risk, and linking to other resources
 
 # set a theme 
-theme: cayman
+theme: slate
 
 titles_from_headings:
   enabled:     false
