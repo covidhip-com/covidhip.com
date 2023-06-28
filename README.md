@@ -1,11 +1,3 @@
-# About this site
-This site is about covid, and contains:
-- the risks of covid
-- ways to protect yourself
-- links to other, longer resources
-
-It's on a short, easy to remember URL, so you can tell people about it easily.
-
 # About Covid
 Covid is not just a cold. Every infection with covid puts you at risk of many long term problems. There is overwhelming evidence that every infection can cause damage which will impact your long term health.
 
