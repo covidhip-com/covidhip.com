@@ -22,10 +22,13 @@ We already know that even one Covid infection can cause problems in your:
     - [Weakens your immune system (t-cell dysfunction)](https://nn.neurology.org/content/10/4/e200097#sec-14)
     - [Weakens your immune system (dendritic cell dysfunction)](https://www.nature.com/articles/s41423-021-00728-2#Sec2)
     - [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/)
+    - ["a 42.63% higher likelihood of acquiring autoimmunity for patients who had suffered from COVID-19"](https://www.medrxiv.org/content/10.1101/2023.01.25.23285014v1)
 
 There is strong research that covid is associated with cancers:
 - [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/)
 - [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
+- ["SARS-CoV-2 infection affects many mechanisms that play a crucial role in cancer onset and progression"](https://www.sciencedirect.com/science/article/pii/S0300908423001360?via%3Dihub#sec5)
+- ["Our findings suggest that SARS-CoV-2 can be considered a potential risk factor for increasing the probability of developing cancer"](https://www.researchsquare.com/article/rs-1894265/v1)
 
 And evidence shows the virus lives within "recovered" people:
 - [Can be detected months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
