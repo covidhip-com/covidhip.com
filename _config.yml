@@ -2,7 +2,11 @@ title: Covid Hip - Covid info, risks, and resources
 description: Covid info hub, highlighting risks and ways to reduce your risk, and linking to other resources
 
 # set a theme 
-theme: slate
+# theme: slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 
 titles_from_headings:
   enabled:     false
