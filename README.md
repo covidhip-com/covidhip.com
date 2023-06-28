@@ -57,6 +57,10 @@ It can be months before the problems from a covid infection appear. If you've ha
 
 Life before 2020 is not coming back. We can make a new, safe normal, or you can hurt yourself or people you love. There are no other options.
 
+- "If it was that bad, someone would have told me".
+
+The [CDC](https://twitter.com/CDCgov/status/1529147728068063232?s=20) says 1 in 5 people will develop "a new condition a month or more after surviving #COVID19". The [NIH](https://covid19.nih.gov/covid-19-topics/long-covid) says "Either mild or severe COVID-19 can lead to long-lasting symptoms".
+
 # Reducing your risk
 
 Covid is airborne - you breathe it in from an infected person's breath, and it can stay in the air for a long time after being breathed out. So you need to remove the virus from the air you are breathing, or replace that air.
@@ -89,7 +93,7 @@ You need to use these as "layers of protection", and apply them together to redu
 
 | Link | Description |
 |----|------|
-|  [John Snow Project](https://johnsnowproject.org) | The John Snow Project |
+|  [John Snow Project](https://johnsnowproject.org) | The objective of the John Snow Project is to provide easily digestible information for the general public and policymakers to help them understand the risks posed by the disease and how to best manage those risks. |
 | [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit) | Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. |
 | [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555) | A categorised set of bookmarks about covid and its impacts. |
 | [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home) | A thorough telling of why one family is still cautious about covid |
@@ -97,3 +101,4 @@ You need to use these as "layers of protection", and apply them together to redu
 | [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
 | [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
+| [Scientific publications on long covid / PASC](https://docs.google.com/spreadsheets/d/1jy354stmCE30zYoE5Ou3lz0O1hZSbvuLfvxcUGoBroQ/edit#gid=2120469993) | An exhaustive and constantly updated collection of studies and data about Long Covid |
