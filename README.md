@@ -7,51 +7,47 @@ This site is about covid, and contains:
 It's on a short, easy to remember URL, so you can tell people about it easily.
 
 # About Covid
-Covid is not just a cold.
+Covid is not just a cold. Every infection with covid puts you at risk of many long term problems. There is overwhelming evidence that every infection can cause damage which will impact your long term health.
 
-It creates long term damage, and may be persistent in the body doing more damage. We don't understand how common this damage and long term impact is.
+It may also stay in the body, and we do not yet know what the long term impact of this will be. Like other viruses which persist in our bodies, it may have disastrous long term impacts.
 
-Every infection with covid puts you at higher risk.
+We already know that even one Covid infection can cause problems in your:
 
-We already know that even one Covid infection:
+- Vital Organs
+    - [long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
+    - [ "persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
+    - [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/)
+    - [Increases your risk of Diabetes](https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm)
+    - [Inceases your risk of gut disorders](https://www.nature.com/articles/s41467-023-36223-7)
 
-- [Can create long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
+- Brain
+    - [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9)
+    - [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829)
+    - [Increases your risk of Alzheimers disease for at least a year](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220717)
+    - [Accelerates dementia](https://www.eurekalert.org/news-releases/985010)
 
-- [Can create "persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
+- Immune System
+    - [Weakens your immune system (t-cell dysfunction)](https://nn.neurology.org/content/10/4/e200097#sec-14)
+    - [Weakens your immune system (dendritic cell dysfunction)](https://www.nature.com/articles/s41423-021-00728-2#Sec2)
+    - [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/)
 
-- [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/)
+There is strong research that covid is associated with cancers:
+- [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/)
+- [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
 
-- [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9)
+And evidence shows the virus lives within "recovered" people:
+- [Can be detected months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
+- ["can spread systemically and persist for weeks to months."](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00115-5/fulltext)
 
-- [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829)
+These are true even for "mild" cases, and it appears the risk does not reduce for re-infections.
 
-- [Increases your risk of Diabetes](https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm)
-
-- [Increases your risk of Alzheimers disease for at least a year](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220717)
-
-- [Accelerates dementia](https://www.eurekalert.org/news-releases/985010)
-
-- [Inceases your risk of gut disorders](https://www.nature.com/articles/s41467-023-36223-7)
-
-- [Weakens your immune system (t-cell dysfunction)](https://nn.neurology.org/content/10/4/e200097#sec-14)
-
-- [Weakens your immune system (dendritic cell dysfunction)](https://www.nature.com/articles/s41423-021-00728-2#Sec2)
-
-- [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/)
-
-- Influences and possibly accelerates [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/) and [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
-
-- [Can be detected in some people months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
-
-These may be true even for "mild" cases, and it appears the risk does not reduce for re-infections.
-
-Every infection increases your risk.
+Every infection increases your risk. The only way to reduce your risk is to reduce the number of times you are infected.
 
 # Common responses
 
 - "I got over it" / "It was mild" / "I'm fine now".
 
-Which tests have you had done to prove you're not affected? You probably do have damage from covid, you're just not testing for it. Even if you have been lucky on your previous infections, will you be so lucky every time?
+The initial "cold-like" symptoms are not the whole story. Which tests have you done to prove you're not affected? Even if you have been lucky on your previous infections, will you be so lucky every time?
 
 - "My new health problems aren't related to covid"
 
@@ -63,13 +59,22 @@ Life before 2020 is not coming back. We can make a new, safe normal, or you can 
 
 # Reducing your risk
 
-Reduce the number of infections you have. You can use active or passive protections.
+Covid is airborne - you breathe it in from an infected person's breath, and it can stay in the air for a long time after being breathed out. So you need to remove the virus from the air you are breathing, or replace that air.
+
+You can remove the virus from the air with:
+- filtration, to treat a whole space
+- masks, to treat the air you are breathing
+- good airflow, bringing outside air in to replace possibly infectious air
+
+And you can limit the amount of time you spend in enclosed spaces with infections people.
+
+You need to use these as "layers of protection", and apply them together to reduce your risk.
 
 | protection | detail |
 |----|----|
-| masks / respirators | N95 or P2 standard or higher. |
-| air filtration | Some kinds of filters can remove the virus from the air. |
-| outside air | Bringing air from outside into your shared spaces can dilute the amount of virus you are exposed to, if someone else is carrying it. |
+| masks / respirators | N95 or P2 standard are the best, a common choice is the "3M Aura", this guide explains more: https://peoplescdc.org/2022/09/12/masking/ |
+| air filtration | Some kinds of filters can remove the virus from the air. ["Corsi-Rosenthal Boxes"](https://cleanaircrew.org/box-fan-filters/) are an easy to build, cheap solution for this. |
+| outside air | Bringing air from outside into your shared spaces can dilute the amount of virus you are exposed to, if someone else is carrying it. Open a window or door, and keep the air moving through. |
 | limit your exposure | Reduce your risk by reducing the time you spend in enclosed spaces with potentially contagious people. |
 
 
@@ -91,3 +96,4 @@ Reduce the number of infections you have. You can use active or passive protecti
 | [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
 | [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
+| [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
