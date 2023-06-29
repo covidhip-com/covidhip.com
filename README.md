@@ -97,3 +97,6 @@ You need to use these as "layers of protection", and apply them together to redu
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
 | [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
 | [Scientific publications on long covid / PASC](https://docs.google.com/spreadsheets/d/1jy354stmCE30zYoE5Ou3lz0O1hZSbvuLfvxcUGoBroQ/edit#gid=2120469993) | An exhaustive and constantly updated collection of studies and data about Long Covid |
+
+
+<script data-goatcounter="https://covidhip.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
