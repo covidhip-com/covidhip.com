@@ -98,5 +98,3 @@ You need to use these as "layers of protection", and apply them together to redu
 | [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
 | [Scientific publications on long covid / PASC](https://docs.google.com/spreadsheets/d/1jy354stmCE30zYoE5Ou3lz0O1hZSbvuLfvxcUGoBroQ/edit#gid=2120469993) | An exhaustive and constantly updated collection of studies and data about Long Covid |
 
-
-![visitor pixel]("https://covidhip.goatcounter.com/count?p=/test")
