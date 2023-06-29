@@ -12,3 +12,11 @@ titles_from_headings:
   enabled:     false
   # strip_title: false
   # collections: false
+
+
+
+# Analytics
+analytics:
+  provider: custom
+  goatcounter:
+    code: covidhip
