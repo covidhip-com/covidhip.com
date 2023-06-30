@@ -71,7 +71,7 @@ You need to use these as "layers of protection", and apply them together to redu
 
 | protection | detail |
 |----|----|
-| masks / respirators | N95 or P2 standard are the best, a common choice is the "3M Aura", this guide explains more: https://peoplescdc.org/2022/09/12/masking/ |
+| masks / respirators | N95 or P2 standard are the best, a common choice is the "3M Aura", this guide explains more: [People's CDC - Masking](https://peoplescdc.org/2022/09/12/masking/) |
 | air filtration | Some kinds of filters can remove the virus from the air. ["Corsi-Rosenthal Boxes"](https://cleanaircrew.org/box-fan-filters/) are an easy to build, cheap solution for this. |
 | outside air | Bringing air from outside into your shared spaces can dilute the amount of virus you are exposed to, if someone else is carrying it. Open a window or door, and keep the air moving through. |
 | limit your exposure | Reduce your risk by reducing the time you spend in enclosed spaces with potentially contagious people. |
