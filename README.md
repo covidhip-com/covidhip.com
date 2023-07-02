@@ -54,7 +54,13 @@ Life before 2020 is not coming back. We can make a new, safe normal, or you can 
 
 - "If it was that bad, someone would have told me".
 
-The [CDC](https://twitter.com/CDCgov/status/1529147728068063232?s=20) says 1 in 5 people will develop "a new condition a month or more after surviving #COVID19". The [NIH](https://covid19.nih.gov/covid-19-topics/long-covid) says "Either mild or severe COVID-19 can lead to long-lasting symptoms".
+The [CDC](https://twitter.com/CDCgov/status/1529147728068063232?s=20) says 1 in 5 people will develop "a new condition a month or more after surviving #COVID19".
+
+The [NIH](https://covid19.nih.gov/covid-19-topics/long-covid) says "Either mild or severe COVID-19 can lead to long-lasting symptoms".
+
+- "I'm vaxed and relaxed"
+
+Unfortunately the vaccines are not stopping transmission, and while they reduce severity of the initial infection, there is conflicting data about Long Covid and other long term impacts.
 
 # Reducing your risk
 
@@ -77,12 +83,16 @@ You need to use these as "layers of protection", and apply them together to redu
 | limit your exposure | Reduce your risk by reducing the time you spend in enclosed spaces with potentially contagious people. |
 
 
-
-# Links to Articles
+# Articles
 
 - [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
 - [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
+- [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
 
+# Public Health Links
+
+- [CDC - Long Covid](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html)
+- [NIH - Long Covid](https://covid19.nih.gov/covid-19-topics/long-covid)
 
 # Other Resources
 
@@ -91,7 +101,6 @@ You need to use these as "layers of protection", and apply them together to redu
 |  [John Snow Project](https://johnsnowproject.org) | The objective of the John Snow Project is to provide easily digestible information for the general public and policymakers to help them understand the risks posed by the disease and how to best manage those risks. |
 | [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit) | Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. |
 | [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555) | A categorised set of bookmarks about covid and its impacts. |
-| [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home) | A thorough telling of why one family is still cautious about covid |
 | [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
 | [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
