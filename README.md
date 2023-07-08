@@ -38,6 +38,8 @@ These are true even for "mild" cases, and it appears the risk does not reduce fo
 
 Every infection increases your risk. The only way to reduce your risk is to reduce the number of times you are infected.
 
+The best way to reduce the risk of people around you, is to not get infected, and if you do, don't infect anyone else.
+
 # Common responses
 
 - "I got over it" / "It was mild" / "I'm fine now".
