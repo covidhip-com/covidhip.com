@@ -1,5 +1,12 @@
 # About Covid
 
+Welcome! You're here because you want to learn more about Covid, or because someone who cares about you wants you to protect yourself and those around you. There's just a few sections:
+
+- Summary
+- Common Responses
+- Reducing Risk
+- Links
+
 ## Summary
 
 Covid is not just a cold. Every infection with covid puts you at risk of many long term problems. There is overwhelming evidence that every infection can cause damage which will impact your long term health.
@@ -45,7 +52,7 @@ Every infection increases your risk. The only way to reduce your risk is to redu
 
 The best way to reduce the risk of people around you, is to not get infected, and if you do, don't infect anyone else.
 
-## Common responses
+## Common Responses
 
 - "I got over it" / "It was mild" / "I'm fine now".
 
@@ -89,7 +96,7 @@ The NIH says that:
 
 [More info from The Jon Snow Project](https://johnsnowproject.org/primers/ni-updated-guidelines-on-long-covid-in-children/)
 
-## Reducing your risk
+## Reducing Risk
 
 Covid is airborne - you breathe it in from an infected person's breath, and it can stay in the air for a long time after being breathed out. So you need to remove the virus from the air you are breathing, or replace that air.
 
@@ -110,19 +117,21 @@ You need to use these as "layers of protection", and apply them together to redu
 | outside air | Bringing air from outside into your shared spaces can dilute the amount of virus you are exposed to, if someone else is carrying it. Open a window or door, and keep the air moving through. |
 | limit your exposure | Reduce your risk by reducing the time you spend in enclosed spaces with potentially contagious people. |
 
-## Articles
+## Links
+
+### Articles
 
 - [No, The Pandemic Isn't Over: An FAQ with 300 Sources on Covid](https://jessicawildfire.substack.com/p/no-the-pandemic-isnt-over-an-faq?utm_source=profile&utm_medium=reader2)
 - [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
 - [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
 - [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
 
-## Public Health Organization Links
+### Public Health Organization Links
 
 - [CDC - Long Covid](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html)
 - [NIH - Long Covid](https://covid19.nih.gov/covid-19-topics/long-covid)
 
-## Other Resources
+### Other Resources
 
 | Link | Description |
 |----|------|
