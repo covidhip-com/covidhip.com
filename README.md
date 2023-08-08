@@ -11,7 +11,7 @@ Welcome! You're here because you want to learn more about Covid, or because some
 
 Covid is not just a cold. Every infection with covid puts you at risk of many long term problems. There is overwhelming evidence that every infection can cause damage which will impact your long term health.
 
-It may also stay in the body, and we do not yet know what the long term impact of this will be. Like other viruses which persist in our bodies, it may have disastrous long term impacts.
+It may also stay in the body, and may have disastrous long term impacts.
 
 We already know that even one Covid infection can cause problems in your:
 
@@ -41,12 +41,15 @@ There is strong research that covid is associated with cancers:
 - ["SARS-CoV-2 infection affects many mechanisms that play a crucial role in cancer onset and progression"](https://www.sciencedirect.com/science/article/pii/S0300908423001360?via%3Dihub#sec5)
 - ["Our findings suggest that SARS-CoV-2 can be considered a potential risk factor for increasing the probability of developing cancer"](https://www.researchsquare.com/article/rs-1894265/v1)
 
-And evidence shows the virus lives within "recovered" people:
+Evidence shows the virus lives within "recovered" people long after the acute infection.
 
 - [Can be detected months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
 - ["can spread systemically and persist for weeks to months."](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00115-5/fulltext)
 
-These are true even for "mild" cases, and it appears the risk does not reduce for re-infections.
+The damage Covid does is detectable years after the infection, even for asymptomic infections.
+
+-  [Epigenetic liquid biopsies reveal elevated vascular endothelial cell turnover and erythropoiesis in asymptomatic COVID-19 patients](https://www.biorxiv.org/content/10.1101/2023.07.28.550957v1)
+- [Multimodal Molecular Imaging Reveals Tissue-Based T Cell Activation and Viral RNA Persistence for Up to 2 Years Following COVID-19](https://www.medrxiv.org/content/10.1101/2023.07.27.23293177v1)
 
 Every infection increases your risk. The only way to reduce your risk is to reduce the number of times you are infected.
 
@@ -82,7 +85,7 @@ The [NIH](https://covid19.nih.gov/covid-19-topics/long-covid) says "Either mild 
 
 - "I'm vaxed and relaxed"
 
-Unfortunately the vaccines are not stopping transmission, and while they reduce severity of the initial infection, there is conflicting data about Long Covid and other long term impacts.
+While the vaccines reduce severity of the initial infection, there is conflicting data about Long Covid and other long term impacts.
 
 - "What about children?"
 
@@ -125,24 +128,50 @@ You need to use these as "layers of protection", and apply them together to redu
 - [What COVID Does To The Body - Pandemic Index](https://www.panaccindex.info/p/what-covid-does-to-the-body)
 - [We are all playing Covid roulette. Without clean air, the next infection could permanently disable you - George Monbiot](https://www.theguardian.com/commentisfree/2023/jan/26/covid-roulette-clean-air-ventilation-long-covid)
 - [Why our family is covid cautious](https://sites.google.com/view/why-we-are-covid-cautious/home)
+- [Covid Isn't Over. You're in Danger. I'm Done with the Gaslighting. You Should be Too.](https://derekfranksmusings.substack.com/p/covid-isnt-over)
+
+### Blogs 
+
+These are blogs which mostly focus on Covid - they might also cover other topics.
+
+* [Absolutely Maybe - Evidence and uncertainties about medicine, science culture, and life.](https://absolutelymaybe.plos.org/)
+* [Dr. Ruth’s Newsletter | Ruth Ann Crystal MD | Substack](https://drruth.substack.com/)
+* [Digital Epidemiology | Marcel Salathé | Substack](https://digitalepi.substack.com/)
+* [¡Do Not Panic! | Nate Bear | Substack](https://donotpanic.substack.com/)
+* [Easy Chair | Anthony J Leonardi, MBBS, PhD | Substack](https://easychair.substack.com/)
+* [Ground Truths | Eric Topol | Substack](https://erictopol.substack.com/)
+* [Infection Control, Emergency Management, Safety, and General Thoughts | Currently focused on the COVID-19 pandemic.](https://icemsg.org/)
+* [Its Airborne | Joey Fox](https://itsairborne.com) 
+* [OK Doomer | Jessica Wildfire | Piublic Health](https://ok-doomer.ghost.io/tag/public-health/)
+* [Pandemic Accountability Index | Substack](https://www.panaccindex.info/)
+* [People's CDC | Substack](https://peoplescdc.substack.com/)
+* [T.A.C.T. | TACT | Substack](https://tactnowinfo.substack.com/)
+* [TracingCOVID | A.J. Fish | Substack](https://tracingcovid.substack.com/)
+* [Teams Human | Chloe Humbert | Substack](https://teamshuman.substack.com/)
+* [Your Local Epidemiologist | Katelyn Jetelina | Substack](https://yourlocalepidemiologist.substack.com/)
+
 
 ### Public Health Organization Links
 
 - [CDC - Long Covid](https://www.cdc.gov/coronavirus/2019-ncov/long-term-effects/index.html)
 - [NIH - Long Covid](https://covid19.nih.gov/covid-19-topics/long-covid)
 
-### Other Resources
+### Community Organisation Links
 
 | Link | Description |
 |----|------|
 |  [John Snow Project](https://johnsnowproject.org) | The John Snow Project provides information for the general public to help them understand the risks and how to best manage those risks.  Check out their [Primers](https://johnsnowproject.org/primers/) section.|
+| [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmission and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
+| [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
+| [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
+
+### Other Bookmarks, Studies, Lists etc
+
+| Link | Description |
+|----|------|
 | [Long-COVID Resource Guide](https://docs.google.com/document/d/15LHdOt-f6e7O5LWWAeNnh-zZ2YRW_EzrbSQKJBPnkvY/edit) | Contains lots of information, not just applicable for Long-COVID. Sections on risk, covid impacts, children and covid, long covid, and risk reduction methods including masks. |
 | [Covid Bookmarks List](https://raindrop.io/JW_Lists/covid-lists-30427555) | A categorised set of bookmarks about covid and its impacts. Compiled by JW from [OK Doomer](https://substack.com/@jessicawildfire). |
-| [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmisstion and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
-| [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [COVID-19/SARS-CoV-2 Studies](https://docs.google.com/spreadsheets/d/12VbMkvqUF9eSggJsdsFEjKs5x0ABxQJi5tvfzJIDd3U/htmlview) | Hundreds of studies about covid, organised. |
-| [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
 | [Scientific publications on long covid / PASC](https://docs.google.com/spreadsheets/d/1jy354stmCE30zYoE5Ou3lz0O1hZSbvuLfvxcUGoBroQ/edit#gid=2120469993) | An exhaustive and constantly updated collection of studies and data about Long Covid |
-| [Its Airborne](https://itsairborne.com) | Want to know how to stop COVID and other airborne diseases? Interested in ventilation, filtration and UV to clean the air? |
 
 {% include analytics-providers/custom.html %}
