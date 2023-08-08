@@ -134,22 +134,35 @@ You need to use these as "layers of protection", and apply them together to redu
 
 These are blogs which mostly focus on Covid - they might also cover other topics.
 
-* [Absolutely Maybe - Evidence and uncertainties about medicine, science culture, and life.](https://absolutelymaybe.plos.org/)
-* [Dr. Ruth’s Newsletter | Ruth Ann Crystal MD | Substack](https://drruth.substack.com/)
-* [Digital Epidemiology | Marcel Salathé | Substack](https://digitalepi.substack.com/)
-* [¡Do Not Panic! | Nate Bear | Substack](https://donotpanic.substack.com/)
-* [Easy Chair | Anthony J Leonardi, MBBS, PhD | Substack](https://easychair.substack.com/)
-* [Ground Truths | Eric Topol | Substack](https://erictopol.substack.com/)
-* [Infection Control, Emergency Management, Safety, and General Thoughts | Currently focused on the COVID-19 pandemic.](https://icemsg.org/)
-* [Its Airborne | Joey Fox](https://itsairborne.com) 
-* [OK Doomer | Jessica Wildfire | Piublic Health](https://ok-doomer.ghost.io/tag/public-health/)
-* [Pandemic Accountability Index | Substack](https://www.panaccindex.info/)
-* [People's CDC | Substack](https://peoplescdc.substack.com/)
-* [T.A.C.T. | TACT | Substack](https://tactnowinfo.substack.com/)
-* [TracingCOVID | A.J. Fish | Substack](https://tracingcovid.substack.com/)
-* [Teams Human | Chloe Humbert | Substack](https://teamshuman.substack.com/)
-* [Your Local Epidemiologist | Katelyn Jetelina | Substack](https://yourlocalepidemiologist.substack.com/)
+- [Absolutely Maybe - Evidence and uncertainties about medicine, science culture, and life.](https://absolutelymaybe.plos.org/)
 
+- [Dr. Ruth’s Newsletter | Ruth Ann Crystal MD | Substack](https://drruth.substack.com/)
+
+- [Digital Epidemiology | Marcel Salathé | Substack](https://digitalepi.substack.com/)
+
+- [¡Do Not Panic! | Nate Bear | Substack](https://donotpanic.substack.com/)
+
+- [Easy Chair | Anthony J Leonardi, MBBS, PhD | Substack](https://easychair.substack.com/)
+
+- [Ground Truths | Eric Topol | Substack](https://erictopol.substack.com/)
+
+- [Infection Control, Emergency Management, Safety, and General Thoughts | Currently focused on the COVID-19 pandemic.](https://icemsg.org/)
+
+- [Its Airborne | Joey Fox](https://itsairborne.com)
+
+- [OK Doomer | Jessica Wildfire | Piublic Health](https://ok-doomer.ghost.io/tag/public-health/)
+
+- [Pandemic Accountability Index | Substack](https://www.panaccindex.info/)
+
+- [People's CDC | Substack](https://peoplescdc.substack.com/)
+
+- [T.A.C.T. | TACT | Substack](https://tactnowinfo.substack.com/)
+
+- [TracingCOVID | A.J. Fish | Substack](https://tracingcovid.substack.com/)
+
+- [Teams Human | Chloe Humbert | Substack](https://teamshuman.substack.com/)
+
+- [Your Local Epidemiologist | Katelyn Jetelina | Substack](https://yourlocalepidemiologist.substack.com/)
 
 ### Public Health Organization Links
 
