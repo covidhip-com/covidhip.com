@@ -163,6 +163,7 @@ These are blogs which mostly focus on Covid - they might also cover other topics
 | [Covid Is Airborne](https://www.covidisairborne.org) | Resources about Covid, including transmission and prevention, reports, guides, tools, media articles, infographics, videos, studies and more. |
 | [The People's CDC](https://peoplescdc.org) | The People’s CDC is a coalition of public health practitioners, scientists, healthcare workers, educators, advocates and people from all walks of life working to reduce the harmful impacts of COVID-19. |
 | [Clean Air Crew](https://cleanaircrew.org/box-fan-filters/) | How and why to build your own low cost air purifier |
+| [Zeroes.CA](https://zeroes.ca/about) | zeroes.ca is a COVID-aware community built on Mastodon and connected to the fediverse. We're hosted on servers in Canada, operated by admins who live in Canada, and open to people from anywhere in the world. See also, their [collection of links](https://links.zeroes.ca/) to other resouces. |
 
 ### Other Bookmarks, Studies, Lists etc
 
