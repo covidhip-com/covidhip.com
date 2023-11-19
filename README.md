@@ -14,15 +14,38 @@ Covid is not just a cold. Every infection with covid puts you at risk of many lo
 
 We already know that even one Covid infection can cause problems in your:
 
-- Vital Organs: [long term heart problems](https://www.nature.com/articles/s41591-022-02000-0), ["persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250), [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/), [Increases your risk of Diabetes](https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm), [Increases your risk of gut disorders](https://www.nature.com/articles/s41467-023-36223-7), ["suggesting that sub-clinical vascular and erythrocyte turnover are universal features of COVID-19, independent of disease severity"](https://www.biorxiv.org/content/10.1101/2023.07.28.550957v1)
+- Brain:
+  - [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9)
+  - [Increases your risk of Alzheimers disease for at least a year](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220717)
+  - [Accelerates dementia](https://www.eurekalert.org/news-releases/985010)
 
-- Brain: [Creates persistent inflammation in your brain](https://www.cell.com/cell/fulltext/S0092-8674(22)00713-9), [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829), [Increases your risk of Alzheimers disease for at least a year](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad220717), [Accelerates dementia](https://www.eurekalert.org/news-releases/985010)
+- Immune System:
+  - [Weakens your immune system (t-cell dysfunction)](https://nn.neurology.org/content/10/4/e200097#sec-14)
+  - [Weakens your immune system (dendritic cell dysfunction)](https://www.nature.com/articles/s41423-021-00728-2#Sec2)
+  - ["higher likelihood of acquiring autoimmunity"](https://www.medrxiv.org/content/10.1101/2023.01.25.23285014v1)
+  - [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/)
+  - ["significantly increased risk for RSV infections"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582888/)
+  - ["is a substantial risk factor for certain fungal infections, particularly those caused by invasive molds, likely because of COVID-19–related immune system dysregulation"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10310397/)
+  - ["The risk of HZ within a 12-month follow-up period was significantly higher in patients who had recovered from COVID-19 compared with that in the control group"](https://onlinelibrary.wiley.com/doi/10.1002/jmv.28745)
 
-- Immune System: [Weakens your immune system (t-cell dysfunction)](https://nn.neurology.org/content/10/4/e200097#sec-14), [Weakens your immune system (dendritic cell dysfunction)](https://www.nature.com/articles/s41423-021-00728-2#Sec2), [Makes bacterial infections more likely](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9134015/),  ["higher likelihood of acquiring autoimmunity"](https://www.medrxiv.org/content/10.1101/2023.01.25.23285014v1)
+- Other Organs:
+  - [long term heart problems](https://www.nature.com/articles/s41591-022-02000-0)
+  - ["persistent pulmonary dysfunction in children and adolescents"](https://pubs.rsna.org/doi/10.1148/radiol.221250)
+  - [Damages your liver, and "it can exacerbate chronic liver conditions"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9131221/)
+  - [Increases your risk of Diabetes](https://www.cdc.gov/mmwr/volumes/71/wr/mm7102e2.htm)
+  - [Increases your risk of gut disorders](https://www.nature.com/articles/s41467-023-36223-7)
+  - ["suggesting that sub-clinical vascular and erythrocyte turnover are universal features of COVID-19, independent of disease severity"](https://www.biorxiv.org/content/10.1101/2023.07.28.550957v1)
+  - [Can create long-term thyroid dysfunction](https://www.tandfonline.com/doi/full/10.1080/13102818.2023.2170829)
 
-There is strong research that covid is associated with cancers: [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/), [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/), ["SARS-CoV-2 infection .. a crucial role in cancer onset and progression"](https://www.sciencedirect.com/science/article/pii/S0300908423001360?via%3Dihub#sec5), ["potential risk factor for .. developing cancer"](https://www.researchsquare.com/article/rs-1894265/v1)
+There is strong research that covid is associated with cancers: 
+- [Breast Cancer](https://pubmed.ncbi.nlm.nih.gov/35747796/)
+- [Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/37033918/)
+- ["SARS-CoV-2 infection .. a crucial role in cancer onset and progression"](https://www.sciencedirect.com/science/article/pii/S0300908423001360?via%3Dihub#sec5), ["potential risk factor for .. developing cancer"](https://www.researchsquare.com/article/rs-1894265/v1)
 
-Evidence shows the virus lives in people long after the acute infection: ["Persistence for Up to 2 Years"](https://www.medrxiv.org/content/10.1101/2023.07.27.23293177v1?rss=1), [Can be detected months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/), ["can spread systemically and persist for weeks to months."](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00115-5/fulltext)
+Evidence shows the virus lives in people long after the acute infection: 
+- ["Persistence for Up to 2 Years"](https://www.medrxiv.org/content/10.1101/2023.07.27.23293177v1?rss=1)
+- [Can be detected months after "recovery"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9057012/)
+- ["can spread systemically and persist for weeks to months."](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(23)00115-5/fulltext)
 
 Every infection increases your risk. 
 
